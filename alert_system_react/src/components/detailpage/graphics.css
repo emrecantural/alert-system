@@ -1,0 +1,11 @@
+.graph{
+    width: 90%;
+    margin: 5%;
+    margin-top: 7%;
+    margin-block-end: 7%;
+
+}
+.canvasjs-chart-canvas
+{
+    background-color: rgba(26, 124, 209, 0);
+}

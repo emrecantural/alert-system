@@ -1,0 +1,68 @@
+.panel
+  {
+min-height: 65ex;
+  }
+
+.head {
+   
+    overflow: hidden;
+    background-color: #f1f1f100;
+    font-family: Helvetica;
+    text-align: center;
+    border-radius: 25px;
+    margin-top:  6%;
+  }
+
+  .alertform_link {
+    background-color: #cccccc5b;    float: left;
+    padding: 1%;
+    border-radius: 25px;
+    margin-top:  2%;
+    margin-right:30% ;
+    margin-left:30% ;
+    height: 50%;
+    width: 40%;  
+
+  }
+  
+  
+    .button {
+       border-top-left-radius: 25px; 
+       border-bottom-left-radius: 25px;  
+
+        background-color: #5f1dac;
+        border: none;
+        color: white;
+        padding: 16px 70px;
+        text-align: center;
+        font-size: 16px;
+        margin: 4px 2px;
+        opacity: 0.6;
+        transition: 0.3s;
+        display: inline-block;
+        text-decoration: none;
+        cursor: pointer;
+      }
+      
+      .button:hover {opacity: 1}
+      .button2 {
+        border-top-right-radius: 25px;  
+        border-bottom-right-radius: 25px;  
+        
+        background-color: #5f1dac;
+        border: none;
+        color: white;
+        padding: 16px 70px;
+        text-align: center;
+        font-size: 16px;
+        margin: 4px 2px;
+        opacity: 0.6;
+        transition: 0.3s;
+        display: inline-block;
+        text-decoration: none;
+        cursor: pointer;
+      }
+      
+      .button2:hover {opacity: 1}
+      
+      

@@ -1,0 +1,32 @@
+ body {
+    margin: 0;
+    font-family: Arial, Helvetica, sans-serif;
+  }
+  .mainbutton
+  {
+    background-color: #d7ade752;
+    color: white;
+    padding: 18px 70px;
+ text-align: center;
+    font-size: 16px;
+    opacity: 0.6;
+    transition: 0.3s;
+    cursor: unset;
+    margin-left:40%;
+    margin-right:40%;
+    display:block;
+    margin-top:30%; 
+        
+  }
+  .mainbutton:hover {opacity: 1}
+      
+      
+  .title
+  { 
+    margin:'center';
+    margin-top: 20%;
+    margin-left:43%;
+    margin-right:auto;
+  }
+
+  
