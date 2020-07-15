@@ -1,1 +1,1 @@
-# alert-system
+Alert System projesi React teknolojisi kullanılarak geliştirilen bir web projesidir. Veritabanı bağlantsı Spring ile PostgreSQL ortamında kurulmuştur. Proje temelde kullanılan teknolojilerin pratikliğini artırmayı amaçlamaktadır.
